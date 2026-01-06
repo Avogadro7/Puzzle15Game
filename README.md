@@ -46,11 +46,12 @@ The goal is simple: arrange all numbers in order from 1 to 15, with the empty sp
 - **Clean UI** - Simple, intuitive interface
 
 ## Screenshots
+
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-06 050155.png" width="200" alt="Welcome Screen" />
-  <img src="screenshots/Screenshot 2026-01-06 050006.png" width="200" alt="Game Paused" />
-  <img src="screenshots/Screenshot 2026-01-06 045948.png" width="200" alt="Victory Screen" />
-  <img src="screenshots/Screenshot 2026-01-06 045921.png" width="200" alt="Gameplay" />
+  <img src="screenshots/Screenshot 2026-01-06 045921.png" width="200" alt="Welcome Screen" />
+  <img src="screenshots/Screenshot 2026-01-06 045948.png" width="200" alt="Game Paused" />
+  <img src="screenshots/Screenshot 2026-01-06 050006.png" width="200" alt="Victory Screen" />
+  <img src="screenshots/Screenshot 2026-01-06 050155.png" width="200" alt="Gameplay" />
 </p>
 
 ## Game Strategy
